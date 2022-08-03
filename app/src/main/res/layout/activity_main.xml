@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffffff"
+    tools:context=".MainActivity">
+
+    <TextView />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="36dp"
+        android:text="adinda widia choirunnisa" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:text="NIS:2974" />
+
+    <TextView
+        android:layout_width="540dp"
+        android:layout_height="36dp"
+        android:text="zuliana" />
+
+    <TextView
+        android:layout_width="446dp"
+        android:layout_height="33dp"
+        android:text="NIS:3040" />
+
+    <TextView
+        android:layout_width="480dp"
+        android:layout_height="45dp"
+        android:background="#00ff00"
+        android:text="Anita sari" />
+
+    <TextView
+        android:layout_width="768dp"
+        android:layout_height="37dp"
+        android:background="#00ff00"
+        android:text="NIS:2975" />
+
+    <TextView
+        android:layout_width="451dp"
+        android:layout_height="43dp"
+        android:text="Ardian muhammad iqbal" />
+
+    <TextView
+        android:layout_width="433dp"
+        android:layout_height="40dp"
+        android:text="NIS:2976" />
+
+    <TextView
+        android:layout_width="506dp"
+        android:layout_height="45dp"
+        android:text="Bagas saputra" />
+
+    <TextView
+        android:layout_width="437dp"
+        android:layout_height="36dp"
+        android:text="NIS:2977" />
+
+
+</LinearLayout>
